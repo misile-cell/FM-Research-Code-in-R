@@ -1,4 +1,4 @@
-## By Alexander McNeil
+## Misile Kunene
 
 ## Importance sampling for a one-factor Gaussian threshold model
 
