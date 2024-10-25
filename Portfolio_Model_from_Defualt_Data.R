@@ -1,4 +1,4 @@
-## By Alexander McNeil and Marius Hofert
+## By Misile Kunene
 
 ## Estimating parameters of portfolio models from default data
 
