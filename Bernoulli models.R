@@ -1,3 +1,5 @@
+## By Misile Kunene
+
 ## Computing the probability mass function (pmf) of the number of defaults
 ## under exchangeable one-factor Bernoulli mixture models.
 
